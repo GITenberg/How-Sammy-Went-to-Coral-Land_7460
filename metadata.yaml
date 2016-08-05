@@ -1,0 +1,24 @@
+_repo: How-Sammy-Went-to-Coral-Land_7460
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atwater, Emily Paret
+    birthdate: 1873
+    gutenberg_agent_id: '2477'
+    url: http://www.gutenberg.org/2009/agents/2477
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Marine animals -- Juvenile literature'
+- !lcsh 'Salmon -- Juvenile literature'
+- GITenberg
+title: How Sammy Went to Coral-Land
+url: http://www.gutenberg.org/ebooks/7460
